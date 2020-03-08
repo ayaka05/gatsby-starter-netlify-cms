@@ -3,7 +3,7 @@ templateKey: index-page
 title: カレー備忘録
 image: /img/fiji_curry.jpg
 heading: Great coffee with a conscience
-subheading: CMSは若干使いづらいな
+subheading: CMSは使いづらいな
 mainpitch:
   title: Why Kaldi
   description: >
