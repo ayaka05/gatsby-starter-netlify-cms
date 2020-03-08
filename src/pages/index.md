@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: カレー備忘録
-image: /img/fiji_curry.jpg
+image: /img/fiji_header.jpg
 heading: Great coffee with a conscience
 subheading: CMSは使いづらいな
 mainpitch:
